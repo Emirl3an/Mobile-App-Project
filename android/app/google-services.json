@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506948484940",
+    "project_id": "test-bfadc",
+    "storage_bucket": "test-bfadc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506948484940:android:e86727a5a3d8956e91d9e9",
+        "android_client_info": {
+          "package_name": "com.example.authtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506948484940-id7f2ndpohrh2hj5fg8s62goeo9orcic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTeDkdVGIwAWt_7W9CRh3EmDgajaHdADY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506948484940-id7f2ndpohrh2hj5fg8s62goeo9orcic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
